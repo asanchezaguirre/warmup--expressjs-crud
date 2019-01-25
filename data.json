@@ -1,0 +1,123 @@
+{
+  "users": [{
+    "id": "1",
+    "isActive": true,
+    "login": {
+      "username": "addyosmani",
+      "password": "qwert123"
+    },
+    "profile": {
+      "fullname": "Addy Osmani",
+      "avatar": "https://pbs.twimg.com/profile_images/1053159168197111808/8eipWrau_400x400.jpg",
+      "website": "https://addyosmani.com"
+    }
+  }, {
+    "id": "2",
+    "isActive": true,
+    "login": {
+      "username": "grigorik",
+      "password": "nkawdboya"
+    },
+    "profile": {
+      "fullname": "Ilya Grigorik",
+      "avatar": "https://pbs.twimg.com/profile_images/458689841186611200/SMmZLt2Y_400x400.jpeg",
+      "website": "https://www.igvita.com/"
+    }
+  }, {
+    "id": "3",
+    "isActive": true,
+    "login": {
+      "username": "chriscoyier",
+      "password": "09767283c"
+    },
+    "profile": {
+      "fullname": "Chris Coyier",
+      "avatar": "https://pbs.twimg.com/profile_images/883049860332609537/IsUISvAq_400x400.jpg",
+      "website": "chriscoyier.net"
+    }
+  }, {
+    "id": "4",
+    "isActive": true,
+    "login": {
+      "username": "iam_preethi",
+      "password": "n_1b2bb"
+    },
+    "profile": {
+      "fullname": "Preethi Kasireddy",
+      "avatar": "https://pbs.twimg.com/profile_images/936972230931574784/2GLuGYUh_400x400.jpg",
+      "website": "https://medium.com/@preethikasireddy"
+    }
+  }, {
+    "id": "5",
+    "isActive": true,
+    "login": {
+      "username": "scottbelsky",
+      "password": "09asvbd1284bn2*"
+    },
+    "profile": {
+      "fullname": "Scott Belsky",
+      "avatar": "https://pbs.twimg.com/profile_images/497855302012633088/aUNB6JfX_400x400.jpeg",
+      "website": "scottbelsky.com"
+    }
+  }, {
+    "id": "6",
+    "isActive": true,
+    "login": {
+      "username": "dan_abramov",
+      "password": "abrahemov"
+    },
+    "profile": {
+      "fullname": "Dan Abramov",
+      "avatar": "https://pbs.twimg.com/profile_images/906557353549598720/oapgW_Fp_400x400.jpg",
+      "website": "overreacted.io"
+    }
+  }, {
+    "id": "7",
+    "isActive": true,
+    "login": {
+      "username": "rachelnabors",
+      "password": "72b_k827!"
+    },
+    "profile": {
+      "fullname": "Rachel “K-Nearest” Nabors",
+      "avatar": "https://pbs.twimg.com/profile_images/899039208693669888/ibha3cYB_400x400.jpg",
+      "website": "rachelnabors.com"
+    }
+  }, {
+    "id": "8",
+    "isActive": false,
+    "login": {
+      "username": "SachaGreif",
+      "password": "mmxlllzss9"
+    },
+    "profile": {
+      "fullname": "Sacha Greif",
+      "avatar": "https://pbs.twimg.com/profile_images/2487116271/j8ehsrukq7v6bh6tswfc_400x400.png",
+      "website": "sachagreif.com"
+    }
+  }, {
+    "id": "9",
+    "isActive": false,
+    "login": {
+      "username": "sarah_edo",
+      "password": "54rahhh**"
+    },
+    "profile": {
+      "fullname": "Sarah Drasner",
+      "avatar": "https://pbs.twimg.com/profile_images/1039352369232789504/M7tgq-c8_400x400.jpg",
+      "website": "sarahdrasnerdesign.com"
+    }
+  }, {
+    "id": "10",
+    "isActive": false,
+    "login": {
+      "username": "toddmotto",
+      "password": "TryUltimate "
+    },
+    "profile": {
+      "fullname": "Todd Motto",
+      "avatar": "https://pbs.twimg.com/profile_images/1055828517299109890/YyEi2cDk_400x400.jpg",
+      "website": "ultimatecourses.com"
+    }
+  }]
+}
